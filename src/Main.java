@@ -5,7 +5,7 @@ public class Main {
 //        Użyć każdej z opcji
         System.out.println("xdd");
         System.out.print("aaaaa");
-        System.out.printf("xxxxxxxxxxxxxx");
+
 
     }
 }
